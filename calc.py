@@ -7,6 +7,8 @@ def subtract(a,b):
     print(difference)
 
 def multiply(a,b):
+    product = a * b
+    print(product)
 
 def diviision(a,b)
 
