@@ -1,17 +1,10 @@
-def add(a, b):
-    sum = a + b
-    print(sum)
+def calc(a, b):
+    list[]
 
-def subtract(a,b):
-    difference = a - b
-    print(difference)
+    list.append(a + b)
+    list.append(a - b)
+    list.append(a * b)
+    list.append(a / b)
 
-def multiply(a,b):
-    product = a * b
-    print(product)
 
-def diviision(a,b):
-    quotient = a / b
-    print(quotient)
 
-calc(3,4)
